@@ -1,0 +1,16 @@
+[
+{
+"modid": "coolstorybro",
+"name": "CoolStoryBro",
+"description": "So frosty...",
+"version": "$version",
+"mcversion": "$mcversion",
+"url": "",
+"updateUrl": "",
+"authors": ["Brian and Nick"],
+"credits": "Brian and Nick",
+"logoFile": "",
+"screenshots": [],
+"dependencies": [mod_MinecraftForge]
+}
+]

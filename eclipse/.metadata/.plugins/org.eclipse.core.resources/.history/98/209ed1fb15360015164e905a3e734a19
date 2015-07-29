@@ -1,0 +1,36 @@
+package coolstory.bro.com;
+
+/**
+ * 
+ */
+/**
+ * @author brian
+ *
+ */
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid="YourModsID", version="YourModsVersion")
+public class Main	{
+	public static String MODID = "modid";
+	public static String VERSION = "version";
+
+	@EventHandler
+	public void preInit(FMLPreInitializationEvent e)	{
+	
+	}
+
+	@EventHandler
+	public void init(FMLInitializationEvent e)	{
+	
+	}
+
+	@EventHandler
+	public void postInit(FMLPostInitializationEvent e)	{
+	
+	}
+}
